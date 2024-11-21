@@ -6,7 +6,7 @@ This repository demonstrates the process of **camera calibration** using two pop
 
 Camera calibration is essential for removing lens distortion and estimating the intrinsic and extrinsic parameters of the camera. This process is crucial for applications such as 3D reconstruction, object tracking, and visual odometry, where precise measurements are needed.
 
-![](Images/Brown Photo Centric Holi Festival Sale Website banner (1).png)
+![](https://github.com/Nassimos07/Camera-Calibration-Camera-Undistortion-Fisheye-Camera-Pinhole-Python-OpenCV-/blob/main/Images/Brown%20Photo%20Centric%20Holi%20Festival%20Sale%20Website%20banner%20(2).png)
 
 ### Calibration Models
 
