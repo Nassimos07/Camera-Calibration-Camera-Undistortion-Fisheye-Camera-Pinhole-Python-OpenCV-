@@ -1,4 +1,5 @@
-# $Camera \space Calibration: \space  Fisheye  \space vs. \space  Pinhole  \space Models  \space | \space OpenCv$
+# $Chessboard  \space  Model  \space Camera \space Calibration$ 
+## $\space  Fisheye  \space V.S \space  Pinhole  \space Model  \space | \space OpenCv$
 
 ## Overview
 
